@@ -1,0 +1,15 @@
+C:\Users\ДРЁМИНЫ\Desktop\DZ_C3\Test_23\obj\Debug\net6.0\Test_23.csproj.AssemblyReference.cache
+C:\Users\ДРЁМИНЫ\Desktop\DZ_C3\Test_23\obj\Debug\net6.0\Test_23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ДРЁМИНЫ\Desktop\DZ_C3\Test_23\obj\Debug\net6.0\Test_23.AssemblyInfoInputs.cache
+C:\Users\ДРЁМИНЫ\Desktop\DZ_C3\Test_23\obj\Debug\net6.0\Test_23.AssemblyInfo.cs
+C:\Users\ДРЁМИНЫ\Desktop\DZ_C3\Test_23\obj\Debug\net6.0\Test_23.csproj.CoreCompileInputs.cache
+C:\Users\ДРЁМИНЫ\Desktop\DZ_C3\Test_23\bin\Debug\net6.0\Test_23.exe
+C:\Users\ДРЁМИНЫ\Desktop\DZ_C3\Test_23\bin\Debug\net6.0\Test_23.deps.json
+C:\Users\ДРЁМИНЫ\Desktop\DZ_C3\Test_23\bin\Debug\net6.0\Test_23.runtimeconfig.json
+C:\Users\ДРЁМИНЫ\Desktop\DZ_C3\Test_23\bin\Debug\net6.0\Test_23.dll
+C:\Users\ДРЁМИНЫ\Desktop\DZ_C3\Test_23\bin\Debug\net6.0\Test_23.pdb
+C:\Users\ДРЁМИНЫ\Desktop\DZ_C3\Test_23\obj\Debug\net6.0\Test_23.dll
+C:\Users\ДРЁМИНЫ\Desktop\DZ_C3\Test_23\obj\Debug\net6.0\refint\Test_23.dll
+C:\Users\ДРЁМИНЫ\Desktop\DZ_C3\Test_23\obj\Debug\net6.0\Test_23.pdb
+C:\Users\ДРЁМИНЫ\Desktop\DZ_C3\Test_23\obj\Debug\net6.0\Test_23.genruntimeconfig.cache
+C:\Users\ДРЁМИНЫ\Desktop\DZ_C3\Test_23\obj\Debug\net6.0\ref\Test_23.dll
